@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dMadhav27/react-loginsignup.git/static/css/main.36651a0f.css",
+    "main.js": "/dMadhav27/react-loginsignup.git/static/js/main.b64838c4.js",
+    "static/js/787.ac6266c1.chunk.js": "/dMadhav27/react-loginsignup.git/static/js/787.ac6266c1.chunk.js",
+    "static/media/logo.svg": "/dMadhav27/react-loginsignup.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dMadhav27/react-loginsignup.git/index.html",
+    "main.36651a0f.css.map": "/dMadhav27/react-loginsignup.git/static/css/main.36651a0f.css.map",
+    "main.b64838c4.js.map": "/dMadhav27/react-loginsignup.git/static/js/main.b64838c4.js.map",
+    "787.ac6266c1.chunk.js.map": "/dMadhav27/react-loginsignup.git/static/js/787.ac6266c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36651a0f.css",
+    "static/js/main.b64838c4.js"
+  ]
+}
